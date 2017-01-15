@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="material_names">
+        <item>Radierer</item>
+        <item>Wand</item>
+        <item>Möbel</item>
+        <item>Treppe</item>
+        <item>Fahrstuhl</item>
+        <item>Tür</item>
+        <item>Rolltreppe</item>
+    </string-array>
+</resources>

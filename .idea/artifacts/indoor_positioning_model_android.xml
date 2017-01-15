@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="indoor-positioning-model-android">
+    <output-path>$PROJECT_DIR$/out/artifacts/indoor_positioning_model_android</output-path>
+    <root id="archive" name="indoor-positioning-model-android.jar">
+      <element id="module-output" name="IndoorPositioningModelAndroidLibrary" />
+    </root>
+  </artifact>
+</component>
